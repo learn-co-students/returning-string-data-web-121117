@@ -209,4 +209,3 @@ without doing a page refresh? Certainly we wouldn't want to make a bunch
 of separate requests to endpoints like `/post/:id/body` and
 `/post/:id/title` and `/post/:id/author`, would we? There has to be a
 better way!
-
